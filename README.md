@@ -100,8 +100,6 @@ Module_20_1_Initial_EDA/                 # EDA submission folder (illustrative r
 └── Module20_EDA.ipynb                   # Additional copy of the EDA notebook
 ```
 
-**Note:** `Module_20_1_Initial_EDA.ipynb` and `Module20_EDA.ipynb` are both present and have the same reported file size (483,099 bytes). For the course submission, you may keep the canonical notebook `Module_20_1_Initial_EDA.ipynb` and rename this updated `Module20_README.md` to `README.md`. Confirm the two notebooks have identical content before removing either one.
-
 The contents of `data/` and `outputs/` were not provided in the directory listing, so their filenames are not assumed here. The broader capstone's `src/`, `notebooks/`, and `catboost_info/` folders are **not** part of this EDA-specific hierarchy.
 
 ## How to run

@@ -133,7 +133,7 @@ For later modules, compare additional classifiers on temporal validation data, t
 
 ## Submission instructions
 
-Upload the updated README (named **`README.md`** in GitHub) and **`Module_20_1_Initial_EDA.ipynb`** to the GitHub project repository, then submit the repository URL in the course portal. The README results are based specifically on the Module 20.1 notebook, rather than later capstone test-set scores.
+Uploaded the updated README (named **`README.md`**) and **`Module_20_1_Initial_EDA.ipynb`**. The README results are based specifically on the Module 20.1 notebook, rather than later capstone test-set scores.
 
 ## Contact
 

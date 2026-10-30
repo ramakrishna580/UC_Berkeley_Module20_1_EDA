@@ -112,7 +112,7 @@ The contents of `data/` and `outputs/` were not provided in the directory listin
    pip install numpy pandas matplotlib seaborn scikit-learn jupyter
    ```
 
-4. Open `notebooks/Module_20_1_Initial_EDA.ipynb` and select **Run All**.
+4. Open `Module_20_1_Initial_EDA.ipynb` and select **Run All**.
 5. Inspect the data quality table, EDA figures, and validation metrics. The notebook writes `outputs/module20_validation_baseline_metrics.csv` and `outputs/module20_data_quality_audit.csv`.
 
 ## Limitations
@@ -127,10 +127,6 @@ The contents of `data/` and `outputs/` were not provided in the directory listin
 ## Next steps
 
 For later modules, compare additional classifiers on temporal validation data, tune hyperparameters and review thresholds, evaluate calibration and alert capacity, select a model without inspecting the test labels, and evaluate the selected model once on the held-out test period. Document interpretability, drift, governance, and deployment risks.
-
-## Submission instructions
-
-Uploaded the updated README (named **`README.md`**) and **`Module_20_1_Initial_EDA.ipynb`**. The README results are based specifically on the Module 20.1 notebook, rather than later capstone test-set scores.
 
 ## Contact
 

@@ -5,7 +5,6 @@
 
 **Author:** Rama Nuti  
 **GitHub profile:** https://github.com/ramakrishna580/  
-**GitHub repository:** Use your Module 20 EDA repository URL when published; https://github.com/ramakrishna580/ is the author profile
 
 ## Executive summary
 
